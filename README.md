@@ -1,2 +1,2 @@
-# hello-world
-hello-world repository - created during tutorial process.
+# Hello People,
+this is just the hello-world repository wich was created during the tutorial process.
